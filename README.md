@@ -4,9 +4,6 @@ QR & Barcode Scanner a scanner app uses the [ZXing][zxing] scanning library.
 
 ## Authentification with firebase 
 
-## Contributing
-
-You can contribute by adding a translation on [Transifex][transifex], reporting a bug or asking for a feature.
 
 ## Supported Barcode Formats
 
