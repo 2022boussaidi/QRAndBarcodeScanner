@@ -1,5 +1,5 @@
 
-QR & Barcode Scanner is an ad-free, open-source scanner app. It uses the [ZXing][zxing] scanning library.
+QR & Barcode Scanner a scanner app uses the [ZXing][zxing] scanning library.
 
 
 ## Authentification with firebase 
