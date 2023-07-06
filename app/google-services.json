@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "182838279107",
+    "firebase_url": "https://authentification-70889-default-rtdb.firebaseio.com",
+    "project_id": "authentification-70889",
+    "storage_bucket": "authentification-70889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182838279107:android:8d830559cf9316d57d5b76",
+        "android_client_info": {
+          "package_name": "com.example.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182838279107-altrkloegpeqda7l1jr184c19v999a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RlvsKaFkQBUjzgwxMVwb5W9YwQbeto4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182838279107-altrkloegpeqda7l1jr184c19v999a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182838279107:android:41055486481f47cf7d5b76",
+        "android_client_info": {
+          "package_name": "eniso.gte2.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182838279107-altrkloegpeqda7l1jr184c19v999a8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8RlvsKaFkQBUjzgwxMVwb5W9YwQbeto4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182838279107-altrkloegpeqda7l1jr184c19v999a8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
