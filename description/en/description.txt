@@ -46,5 +46,3 @@ Barcodes and 2D codes:
 • Codabar
 • ITF
 
-Source code:
-https://github.com/wewewe718/QrAndBarcodeScanner
